@@ -145,19 +145,9 @@ Potential features for future versions:
 - [ ] Custom difficulty settings
 - [ ] Achievement system
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mahdiyyeh/SpacePilot/issues).
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-**Mahdiyyeh**
-
-- GitHub: [@mahdiyyeh](https://github.com/mahdiyyeh)
 
 ## 🙏 Acknowledgments
 
@@ -166,6 +156,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - Assets created for educational/game development purposes
 
 ---
-
-⭐ If you enjoy this game, please consider giving it a star!
-
